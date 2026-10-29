@@ -1,0 +1,3 @@
+Project principles are maintained in PRINCIPLES.md.
+This compatibility pointer preserves the earlier project entry path.
+Read PROJECT_MAP.md to select relevant component maps.
